@@ -5,9 +5,11 @@
 **I'm a master's student in [Natural Language Processing](https://er-tim.fr/master_2) at [Inalco](http://www.inalco.fr/) (fr: Traitement Automatique des Langues, parcours Ingénierie Multilingue)**
 
 ## Skills and Tools
-- ⌨️ Python, SQL  
-- 💻 HTML5, CSS3
-- 🌱 Currently learning Java and Shell 
+⌨️ Python, SQL  
+
+💻 HTML5, CSS3
+
+🌱 Currently learning Java and Shell 
 
 ## Hobbies
 - 🎥 Cinema 
