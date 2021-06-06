@@ -1,6 +1,6 @@
 ### Hi, I'm Qi Wang ! 👋
 
-I'm a master student at [Inalco](http://www.inalco.fr/), in [Natural Language Processing](https://er-tim.fr/master_2) (fr: Traitement Automatique des Langues, parcours Ingénierie Multilingue)
+I'm a master student at [Inalco](http://www.inalco.fr/) in [Natural Language Processing](https://er-tim.fr/master_2) (fr: Traitement Automatique des Langues, parcours Ingénierie Multilingue)
 
 Skills: Python / SQL / HTML5 / CSS3
 
