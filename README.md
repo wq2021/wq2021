@@ -6,9 +6,7 @@
 
 ## Skills and Tools
 ⌨️ Python, SQL  
-
 💻 HTML5, CSS3
-
 🌱 Currently learning Java and Shell 
 
 ## Hobbies
