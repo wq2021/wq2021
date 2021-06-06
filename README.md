@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-- I'm a master student at [Inalco], in Natural Language Processing (fr: Traitement Automatique des Langues, parcours Ingénierie Multilingue).
-- Python / SQL / HTML5 / CSS3
-- I'm currently learning Java and Shell.
+- I'm a master student at [Inalco](http://www.inalco.fr/), in [Natural Language Processing](https://er-tim.fr/master_2) (fr: Traitement Automatique des Langues, parcours Ingénierie Multilingue)
+- I'm currently learning Java and Shell
+- - Python / SQL / HTML5 / CSS3
 - Music / Cinema / Concert / Photography
 
 Contact me :
