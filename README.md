@@ -1,26 +1,24 @@
 ### Hi, I'm Qi Wang ! 👋
 
-<!--
-**wq2021/wq2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a master student at [Inalco](http://www.inalco.fr/), in [Natural Language Processing](https://er-tim.fr/master_2) (fr: Traitement Automatique des Langues, parcours Ingénierie Multilingue)
 
-Here are some ideas to get you started:
+Skills: Python / SQL / HTML5 / CSS3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Java and Shell 
+- 📫 How to reach me: wq2021@outlook.com 
 
-- I'm a master student at [Inalco](http://www.inalco.fr/), in [Natural Language Processing](https://er-tim.fr/master_2) (fr: Traitement Automatique des Langues, parcours Ingénierie Multilingue)
-- I'm currently learning Java and Shell
-- - Python / SQL / HTML5 / CSS3
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wq2021)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/qi-wang-562669bb//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Quutamo7)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wq2021)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 - Music / Cinema / Concert / Photography
 
-Contact me :
+Contact With Me :
 
-![](https://img.shields.io/twitter/url?style=plastic&url=https%3A%2F%2Ftwitter.com%2FQuutamo7)
 
+Technology and Tools:
