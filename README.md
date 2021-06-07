@@ -15,7 +15,7 @@
 - 🎞 Film photography  
 - ⛰ Running / Hiking  
 
-## Connect With Me
+## Contact Me
 ✉️ wq2021@outlook.com 
 
 ## Social Networks
