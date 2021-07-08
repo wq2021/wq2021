@@ -12,8 +12,7 @@
 ## Hobbies
 - 🎥 Cinema  
 - 🎵 Music / Concert  
-- 🎞 Film photography  
-- ⛰ Running / Hiking  
+- 🎞 Film photography
 
 ## Contact Me
 ✉️ wq2021@outlook.com   
