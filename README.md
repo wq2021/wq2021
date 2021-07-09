@@ -7,7 +7,7 @@
 ## Skills and Tools
 - ⌨️ Python, SQL, HTML5, CSS3 
 - 💻 Data/Text Mining & Engineering, Data Analysis & Visualization
-- 🧰 Machine Learning & Deep Learning methods applied to Natural Language Processing.
+- 🧰 Machine Learning & Deep Learning methods applied to Natural Language Processing
 - 🌱 Currently learning Java and Shell 
 
 ## Hobbies
