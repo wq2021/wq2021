@@ -2,7 +2,7 @@
 
 <!-- ![Profile views](https://gpvc.arturio.dev/wq2021) -->
 
-** I'm a master's student in [Machine Learning for Data Science](https://biomedicale.u-paris.fr/master-informatique/master-informatique-amsd/) at [Université de Paris](https://u-paris.fr/). I was a master's student in [Natural Language Processing](https://er-tim.fr/master_2) at [Inalco](http://www.inalco.fr/) (fr: Traitement Automatique des Langues, parcours Ingénierie Multilingue). Feel free to check out my projects in repositories !**
+**I'm a master's student in [Machine Learning for Data Science](https://biomedicale.u-paris.fr/master-informatique/master-informatique-amsd/) at [Université de Paris](https://u-paris.fr/). I was a master's student in [Natural Language Processing](https://er-tim.fr/master_2) at [Inalco](http://www.inalco.fr/) (fr: Traitement Automatique des Langues, parcours Ingénierie Multilingue). Feel free to check out my projects in repositories !**
 
 ## Skills and Tools
 - ⌨️ Python, R, SQL, HTML5, CSS3 
