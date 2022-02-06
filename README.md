@@ -8,7 +8,6 @@
 - ⌨️ Python, R, SQL, HTML5, CSS3 
 - 💻 Data/Text Mining & Engineering, Data Analysis & Visualization
 - 🧰 Machine Learning & Deep Learning methods applied to Natural Language Processing
-- 🌱 Currently learning Java and Shell 
 
 ## Hobbies
 - 🎥 Cinema  
