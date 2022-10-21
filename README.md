@@ -11,7 +11,7 @@
 
 ## Hobbies
 - 🎥 Cinema  
-- 🎵 Music / Concert  
+- 🎵 Music / Live
 - 🎞 Film photography
 
 ## Contact Me
