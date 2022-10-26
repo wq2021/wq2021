@@ -2,7 +2,7 @@
 
 <!-- ![Profile views](https://gpvc.arturio.dev/wq2021) -->
 
-**I'm a master graduate in [Machine Learning for Data Science](https://biomedicale.u-paris.fr/master-informatique/master-informatique-amsd/) at [Université  Paris Descartes](https://u-paris.fr/). I also graduted from Inalco [Inalco](http://www.inalco.fr/) with a master's degree in [Natural Language Processing](https://er-tim.fr/master_2). Feel free to check out my projects in repositories !**
+**I'm a master graduate in [Machine Learning for Data Science](https://biomedicale.u-paris.fr/master-informatique/master-informatique-amsd/) at [Université  Paris Descartes](https://u-paris.fr/). I also graduted from [Inalco](http://www.inalco.fr/) with a master's degree in [Natural Language Processing](https://er-tim.fr/master_2). Feel free to check out my projects in repositories !**
 
 ## Skills and Tools
 - ⌨️ Python, R, SQL, HTML5, CSS3 
