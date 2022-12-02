@@ -1,4 +1,4 @@
-# Hi, I'm Qi Wang ! 👋
+# Hi, I'm Qi Wang.
 
 <!-- ![Profile views](https://gpvc.arturio.dev/wq2021) -->
 
