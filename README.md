@@ -10,7 +10,7 @@
 - 🧰 Applied Machine Learning methods
 
 ## Hobbies
-- 🎥 Cinema  
+- ⛰ Hiking
 - 🎞 Film photography
 - 🧶 Knitting
 
