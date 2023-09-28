@@ -2,12 +2,17 @@
 
 <!-- ![Profile views](https://gpvc.arturio.dev/wq2021) -->
 
-**I'm a master graduate in [Machine Learning for Data Science](https://biomedicale.u-paris.fr/master-informatique/master-informatique-amsd/) at [Université  Paris Cité (ex. Université Paris Descartes)](https://u-paris.fr/). I also graduted from [Inalco](http://www.inalco.fr/) with a master's degree in [Natural Language Processing](https://er-tim.fr/master_2). Feel free to check out my projects in repositories !**
+**I'm a master graduate in [Machine Learning for Data Science](https://biomedicale.u-paris.fr/master-informatique/master-informatique-amsd/) at [Université  Paris Cité (ex. Université Paris Descartes)](https://u-paris.fr/). I also graduted from [Inalco](http://www.inalco.fr/) with a master's degree in [Natural Language Processing](https://er-tim.fr/master_2). Feel free to reach out or check out my various projects in repositories !**
 
 ## Skills and Tools
-- ⌨️ Python, R, SQL, HTML5, CSS3 
+- ⌨️ Python (Pandas, Numpy, PyTorch, Tensorflow, Scikit-learn, etc), R, SQL, HTML5, CSS3, Git, LaTeX.
 - 💻 Data/Text Manipulation & Engineering, Data Analysis & Visualization
 - 🧰 Applied Machine Learning methods
+
+## Certifications (reverse chronological order)
+- [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/certificate/XY4CL7EH9V8J)
+- [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/BSJ8TNG58S6A)
+- [IBM Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/9ARBP28X8953)
 
 ## Hobbies
 - ⛰ Hiking
