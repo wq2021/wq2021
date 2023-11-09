@@ -9,7 +9,7 @@
 - 💻 Data/Text Manipulation & Engineering, Data Analysis & Visualization
 - 🧰 Applied Machine Learning methods
 
-## Certifications (reverse chronological order)
+## Certifications
 - [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/certificate/XY4CL7EH9V8J)
 - [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/BSJ8TNG58S6A)
 - [IBM Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/9ARBP28X8953)
